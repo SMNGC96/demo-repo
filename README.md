@@ -29,3 +29,6 @@ x<sup>2</sup>
 
 > [!TIP]
 > This is a tip tag
+
+> > [!CAUTION]
+> This is a caution tag
