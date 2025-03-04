@@ -32,3 +32,5 @@ x<sup>2</sup>
 
 > [!CAUTION]
 > This is a caution tag
+
+<h1> An H1 Heading </h1>
