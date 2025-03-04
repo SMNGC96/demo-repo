@@ -18,4 +18,4 @@ Random text <sup> This is subscript text </sup>
 ```
 This text is distinct
 ```
-
+x<sup>2</sup>
