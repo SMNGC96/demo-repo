@@ -19,3 +19,7 @@ Random text <sup> This is subscript text </sup>
 This text is distinct
 ```
 x<sup>2</sup>
+
+1. A list of items
+   - More items
+       - Another item
