@@ -23,3 +23,9 @@ x<sup>2</sup>
 1. A list of items
    - More items
        - Another item
+
+> [!NOTE]
+> This is a notice tag
+
+> [!TIP]
+> This is a tip tag
