@@ -35,4 +35,4 @@ x<sup>2</sup>
 
 <h1> An H1 Heading </h1>
 
-<a href="http://google.com" target="_blank" rel="noopener noreferrer"> Link to Google </a>
+[Link to Google](https://www.google.com)
