@@ -2,6 +2,10 @@
 
 **Some description that's pretty cool**
 
+## Local development
+
+1. Open index.html in your browser.
+
 <div style="border: 1px solid red; background: dodgerblue">What tutorials on youtube</div>
 
 ## Subheader
