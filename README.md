@@ -1,11 +1,17 @@
 # Demo
 
-**This text is bold** ** **
+**Some description that's pretty cool**
 
-_This text is italicized_ _ _
+<div style="border: 1px solid red; background: dodgerblue">What tutorials on youtube</div>
+
+## Subheader
+
+**This text is bold** \*\* \*\*
+
+_This text is italicized_ \_ \_
 
 ~~This is strikethrough text~~ ~~ ~~
-***This is bold and italic***
+**_This is bold and italic_**
 
 Random text <sub> This is subscript text </sub>
 
@@ -18,11 +24,12 @@ Random text <sup> This is subscript text </sup>
 ```
 This text is distinct
 ```
+
 x<sup>2</sup>
 
 1. A list of items
    - More items
-       - Another item
+     - Another item
 
 > [!NOTE]
 > This is a notice tag
