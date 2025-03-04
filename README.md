@@ -34,3 +34,5 @@ x<sup>2</sup>
 > This is a caution tag
 
 <h1> An H1 Heading </h1>
+
+<a href="http://google.com"> Link to Google </a>
